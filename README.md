@@ -1,2 +1,2 @@
-# reptile-lieshiqi
-Scrapy lieshiqi.com with Python
+# reptile-lieqishi
+Scrapy lieqishi.com with Python
